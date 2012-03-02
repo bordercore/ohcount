@@ -36,6 +36,7 @@ cache, BINARY
 cc, LANG_CPP
 chai, LANG_CHAISCRIPT
 clj, LANG_CLOJURE
+class, BINARY
 cmake, LANG_CMAKE
 coffee, LANG_COFFEESCRIPT
 com, LANG_DCL
